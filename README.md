@@ -1,4 +1,4 @@
-# final-project-menumasters
+# MenuMasters
 
 User Requirements for Recipe App
 
