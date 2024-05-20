@@ -1,0 +1,73 @@
+.main-div-homepage {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+//   background-color: bisque;
+  padding: 20px 40px;
+}
+
+.home-main{
+    background-color: white;
+    height: 100%;
+    margin: 70px 0px 0px 0px;
+}
+
+.f-div {
+  //   width: 30vw;
+  //   height: 100vh;
+  background-color: white;
+  align-items: flex-start;
+  justify-content: flex-start;
+  border: 1px solid #8c8c8c;
+  padding: 20px;
+  flex: 0.32;
+  border-radius: 10px;
+  margin-top: 10px;
+}
+.s-div {
+  //   width: 50vw;
+  //   height: 100vh;
+  //   background-color: pink;
+  flex: 0.65;
+}
+
+.stack-div {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  padding: 5px;
+}
+
+.card-div {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  background-color: white;
+  border: 1px solid #1876d1;
+  margin: 10px;
+  border-radius: 10px;
+}
+
+.recipe-content {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 20px;
+  h2 {
+    margin: 0px;
+  }
+}
+
+.empty-div {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background-color: white;
+  border: 1px solid #1876d1;
+  border-radius: 10px;
+  margin-top: 10px;
+}

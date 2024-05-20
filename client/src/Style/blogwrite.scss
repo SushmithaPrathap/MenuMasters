@@ -1,0 +1,98 @@
+.write {
+  margin: 100px 0px 0px 0px;
+  align-self: center;
+  justify-self: center;
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+}
+
+.writeImg {
+  width: 700px;
+  height: 700px;
+  border-radius: 10px;
+  object-fit: contain;
+}
+
+.writeForm {
+  position: relative;
+}
+
+.writeFormGroup {
+  margin-left: 150px;
+  display: flex;
+  align-items: center;
+}
+
+.writeIcon {
+  width: 25px;
+  height: 25px;
+  font-size: 20px;
+  border: 1px solid;
+  border-radius: 50%;
+  color: rgb(129, 125, 125);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+}
+
+.writeInput {
+  font-size: 30px;
+  border: none;
+  padding: 20px;
+  width: 70vw;
+}
+
+.writeInput::placeholder {
+  color: rgb(189, 185, 185);
+  font-weight: 400;
+}
+
+.writeInput:focus {
+  outline-style: none;
+}
+
+.writeText {
+  width: 70vw;
+  height: 100vh;
+  font-family: inherit;
+  font-size: 20px;
+}
+
+.writeSubmit {
+  position: absolute;
+  top: 20px;
+  right: 50px;
+  color: white;
+  background-color: teal;
+  padding: 10px;
+  border: none;
+  border-radius: 10px;
+  font-size: 16px;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+}
+
+.add-modal {
+  background-color: whitesmoke;
+  border: 1px solid #1876d1;
+  color: #404040;
+  align-items: center;
+  width: 80%;
+  height: 100%;
+  align-self: center;
+  justify-self: center;
+  display: flex;
+  flex-direction: column;
+  padding: 40px;
+  border-radius: 10px;
+  // margin: 80px;
+  p {
+    font-size: large;
+    text-align: center;
+    color: #404040;
+    font-weight: 800;
+  }
+}

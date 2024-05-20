@@ -1,0 +1,39 @@
+.explore-div {
+  margin: 80px 0px 0px 0px;
+  display: flex;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  //   background-color: bisque;
+  padding: 20px 40px;
+}
+
+.filter-div {
+  background-color: white;
+  align-items: flex-start;
+  justify-content: flex-start;
+  border: 1px solid #8c8c8c;
+  padding: 20px;
+  flex: 0.28;
+  border-radius: 10px;
+  margin-top: 10px;
+}
+.rList-div {
+  flex: 0.7;
+}
+
+.filter {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  p{
+    font-size: 1rem;
+    font-weight: 500;
+    margin: 10px;
+    text-align: justify;
+    color: #1876d1;
+    line-height: 1.6em;
+  }
+}
