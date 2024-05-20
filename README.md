@@ -1,8 +1,4 @@
 # final-project-menumasters
-## THE RECIPE
-final-project-menumasters created by GitHub Classroom
-
-*********************************************************************************************************************************
 
 User Requirements for Recipe App
 
@@ -80,12 +76,4 @@ Tarck the calories consumed
 - Start the frontend server
 - npm start
 - Access the application by going to the route (localhost:3000/)
-*********************************************************************************************************************************
-Contributors -
-Nishith - 002745202
-Aditya Saurav Vijay - 002785945
-Sushmitha Prathap - 002774283
-Suprith Kambadahalli Prakash - 002784202
-
-*********************************************************************************************************************************
 
